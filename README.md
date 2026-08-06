@@ -1,13 +1,14 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm John Wesley</h1>
 
-<img src="assets/banner.png" width="100%" alt="John Wesley Banner"/>
+<h3 align="center">
+AI Developer | B.Tech Artificial Intelligence & Data Science Student
+</h3>
 
-<br><br>
+<p align="center">
+Passionate about building AI applications that solve real-world problems 🚀
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+I'm+John+Wesley;AI+Developer;Machine+Learning+Engineer;Computer+Vision+Developer;Building+AI+Applications;Future+OpenAI+Student+Leader"/>
-
-<br>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/john-wesley-b1a134398/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -16,48 +17,51 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=johnwesley-333&label=Visitors&style=for-the-badge&color=blueviolet"/>
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=johnwesley-333&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
-# 🤖 About Me
+# 🚀 About Me
 
-<img align="right" width="320" src="assets/ai-robot.png"/>
+🎓 **B.Tech Artificial Intelligence & Data Science**
 
-🎓 B.Tech Artificial Intelligence & Data Science
-
-🏫 Panimalar Engineering College
+🏫 **Panimalar Engineering College**
 
 📍 Chennai, India
 
-👨‍💻 Second Year Student
+🎯 **Current Goal**
+- Become an AI Engineer
+- Build Production-Level AI Applications
+- Contribute to Open Source
+- Become an OpenAI Student Leader
 
 ---
 
-### 🚀 Passionate About
+# 💡 Interests
 
 - 🤖 Generative AI
 - 🧠 Machine Learning
 - 👁 Computer Vision
-- ⚡ AI Agents
-- 💬 LLM Applications
-- 🌍 Open Source
+- 🔥 AI Agents
+- 💻 Software Development
+- 🌐 Open Source
 
 ---
 
-### 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - LangGraph
 - FastAPI
+- AI Agents
+- Large Language Models (LLMs)
 - Agentic AI
-- RAG
-- LLM Engineering
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
+
+### Languages
 
 <p>
 
@@ -69,17 +73,33 @@
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+</p>
+
+### AI & ML
+
+<p>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DeepFace-222222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+
+</p>
+
+### Tools
+
+<p>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
@@ -87,33 +107,63 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 tiny-langgraph-ai | AI assistant using LangGraph |
-| 👁 AI Vision System | Object Detection with OpenCV |
-| 😊 AI Face Emotion Recognition | Emotion Detection |
-| 🛰 AI Object System | Intelligent Object Detection |
-| 🔥 AI Code Review Platform | Coming Soon |
+## 🤖 tiny-langgraph-ai
+
+AI assistant built with LangGraph demonstrating graph-based workflows and tool integration.
+
+---
+
+## 👁 AI Vision System
+
+Real-time object detection using YOLO and OpenCV.
+
+---
+
+## 😊 AI Face Emotion Recognition
+
+Emotion recognition system built using OpenCV and DeepFace.
+
+---
+
+## 🛰 AI Object System
+
+Computer Vision project for intelligent object detection.
+
+---
+
+## 🔥 Upcoming
+
+- AI Code Review Platform
+- AI Research Assistant
+- AI News Dashboard
 
 ---
 
 # 📜 Certifications
 
-🏅 Google — Introduction to Generative AI
+✅ Google – Introduction to Generative AI
 
-🏅 AWS Educate — Machine Learning Foundations
+✅ AWS Educate – Machine Learning Foundations
 
-🏅 Anthropic — Claude Code 101
+✅ Anthropic – Claude Code 101
 
-🏅 LinkedIn Learning — Generative AI
+✅ LinkedIn Learning – Generative AI
 
-🏅 TCS iON — AI Foundation
+✅ TCS iON – AI Foundation
 
-🏅 Infosys Springboard — AI • NLP • Data Science
+✅ Infosys Springboard – AI, NLP & Data Science
 
-🏅 IBM — Cybersecurity Fundamentals
+✅ IBM – Cybersecurity Fundamentals
 
-🏅 HackerRank — Problem Solving (Intermediate)
+✅ HackerRank – Problem Solving (Intermediate)
+
+---
+
+# 🏆 Leadership
+
+- 🎓 Class Representative
+- 🤝 Volunteer for Technical Events
+- 🌱 Passionate about helping students learn AI
 
 ---
 
@@ -121,21 +171,19 @@
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=johnwesley-333&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=johnwesley-333&show_icons=true&theme=github_dark"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley-333&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley-333&layout=compact&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=johnwesley-333&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=johnwesley-333&theme=github-dark"/>
 
 </p>
 
@@ -145,27 +193,27 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley-3
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=johnwesley-333&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=johnwesley-333&theme=darkhub&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 🎯 Goals
+# 🎯 2026 Goals
 
-✅ Build Production AI Systems
+✅ Build AI Products
 
-✅ Become an AI Engineer
+✅ Master Agentic AI
 
 ✅ Open Source Contributions
 
-✅ Participate in Global Hackathons
+✅ Win Hackathons
 
-✅ Grow as an AI Community Leader
+✅ Become an OpenAI Student Leader
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 💼 LinkedIn
 
@@ -177,10 +225,8 @@ https://github.com/johnwesley-333
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile! ⭐
 
-*"Building AI that creates real-world impact."*
-
-</div>
+</p>
