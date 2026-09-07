@@ -1,36 +1,98 @@
-<div align="center">
+Create my complete GitHub Profile README.md.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Hello%2C+I'm+John+Wesley+%F0%9F%91%8B;AI+Developer;Machine+Learning;Computer+Vision;Generative+AI;AI+Agents" alt="Typing SVG" />
+The MOST IMPORTANT part is the STARTING ANIMATION.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%" />
+At the very top of the README, I want a terminal-style typing animation where my personal details are typed onto the screen one by one.
 
-</div>
+It should look approximately like this:
 
-# Hi, I'm John Wesley 👋
-### AI Developer | Machine Learning | Computer Vision
+> Initializing John Wesley...
+> Profile loaded ✓
+> AI Developer
+> B.Tech Artificial Intelligence & Data Science
+> Machine Learning
+> Computer Vision
+> Generative AI
+> AI Agents
+> LangGraph
+> Building AI Projects...
+> Status: Learning • Building • Improving 🚀
 
-## About Me
-- 🎓 B.Tech Artificial Intelligence & Data Science student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 👁️ Exploring Computer Vision
-- ✨ Learning Generative AI and LLMs
-- 🧩 Learning AI Agents and LangGraph
-- 💡 Improving programming and problem-solving skills
-- 🌐 Interested in Open Source
-- 🚀 Building projects to gain real-world experience
+I do NOT want just one sentence with a typing effect.
 
-## Skills
+I want MULTIPLE lines of my actual details to appear character-by-character, like a real terminal typing sequence.
 
-**Programming**
-Python · Java · C · SQL
+The animation should:
+- Type each line one after another
+- Have a blinking cursor
+- Have a realistic terminal/developer feel
+- Use smooth timing
+- Look modern and professional
+- Automatically work inside a GitHub README
+- Use SVG/GIF-based techniques compatible with GitHub
+- NOT use JavaScript
+- NOT require users to install anything
+- NOT make the entire README animated
 
-**AI & Machine Learning**
-Machine Learning · Computer Vision · OpenCV · Scikit-Learn · DeepFace · Generative AI · AI Agents · LangGraph
+After the typing animation, transition into my NORMAL GitHub profile.
 
-**Development**
-FastAPI · Git · GitHub · VS Code · Jupyter Notebook
+The rest of the README must be clean, simple, professional, and easy to read.
 
-## Currently Learning
+Do NOT use:
+- Huge futuristic dashboards
+- AI system-status boxes
+- Excessive animations
+- Complex UI
+- Fake information
+- JavaScript
+
+MY INFORMATION:
+
+Name:
+John Wesley
+
+Role:
+AI Developer
+
+Education:
+B.Tech Artificial Intelligence & Data Science
+Panimalar Engineering College
+2025–2029
+Chennai, India
+
+INTERESTS:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Generative AI
+- LLMs
+- AI Agents
+- Open Source
+
+PROGRAMMING:
+- Python
+- Java
+- C
+- SQL
+
+AI / ML:
+- Machine Learning
+- Computer Vision
+- OpenCV
+- Scikit-Learn
+- DeepFace
+- Generative AI
+- AI Agents
+- LangGraph
+
+DEVELOPMENT:
+- FastAPI
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+CURRENTLY LEARNING:
 - LangGraph
 - FastAPI
 - AI Agents
@@ -38,31 +100,25 @@ FastAPI · Git · GitHub · VS Code · Jupyter Notebook
 - LLM Engineering
 - System Design for AI Applications
 
-## Projects
+PROJECTS:
 
-**Tiny LangGraph AI**
+1. Tiny LangGraph AI
 A beginner AI assistant built using Python and LangGraph.
-`Technologies: Python, LangGraph`
+Technologies: Python, LangGraph
 
-**AI Vision System**
+2. AI Vision System
 A computer vision project for real-time object detection.
-`Technologies: Python, OpenCV`
+Technologies: Python, OpenCV
 
-**Face Emotion Recognition**
+3. Face Emotion Recognition
 A project for recognizing facial emotions using computer vision.
-`Technologies: Python, DeepFace, OpenCV`
+Technologies: Python, DeepFace, OpenCV
 
-**AI Object System**
+4. AI Object System
 A computer vision project focused on object detection.
-`Technologies: Python, OpenCV`
+Technologies: Python, OpenCV
 
-## Education
-**B.Tech — Artificial Intelligence & Data Science**
-Panimalar Engineering College
-2025 – 2029
-Chennai, India
-
-## Certifications
+CERTIFICATIONS:
 - Google — Introduction to Generative AI
 - LinkedIn Learning — Generative AI
 - TCS iON — AI Foundation
@@ -74,7 +130,7 @@ Chennai, India
 - HackerRank — Problem Solving Intermediate
 - GUVI — C++ Beginners
 
-## Career Goals
+CAREER GOALS:
 - AI Engineer
 - Machine Learning Engineer
 - Computer Vision Engineer
@@ -83,29 +139,51 @@ Chennai, India
 - Open Source Contributor
 - Research-Oriented Developer
 
-## GitHub Stats
+GITHUB:
+https://github.com/johnwesley-333
 
-<div align="center">
+LINKEDIN:
+https://www.linkedin.com/in/john-wesley-b1a134398/
 
-<img src="https://github-readme-stats.vercel.app/api?username=johnwesley-333&show_icons=true&theme=default&hide_border=true" alt="John's GitHub Stats" />
+README STRUCTURE:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley-333&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+1. Terminal typing animation intro
+2. Hi, I'm John Wesley
+3. About Me
+4. Skills
+5. Currently Learning
+6. Projects
+7. Education
+8. Certifications
+9. Career Goals
+10. GitHub Stats
+11. Connect With Me
+12. Final quote
 
-</div>
+The final quote should be:
 
-## Connect With Me
+Build • Learn • Share • Improve • Repeat 🚀
 
-<div align="center">
+IMPORTANT OUTPUT REQUIREMENTS:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnwesley-333)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-wesley-b1a134398/)
+Give me ONE complete README.md.
 
-</div>
+Put the entire README inside ONE Markdown code block.
 
----
+It must be ready to copy and paste directly into:
 
-<div align="center">
+johnwesley-333/README.md
 
-**Build • Learn • Share • Improve • Repeat 🚀**
+Do not give me separate code snippets.
 
-</div>
+Do not explain the code.
+
+Before giving the final README, verify that the animation URLs and Markdown/HTML syntax are GitHub-compatible.
+
+The final result should feel like:
+
+[TERMINAL TYPING ANIMATION]
+        ↓
+[MY DETAILS APPEAR]
+        ↓
+[Normal Professional GitHub README]
