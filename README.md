@@ -1,3 +1,15 @@
+<div align="center">
+
+# 👋 Welcome to My GitHub
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+John+Wesley+%F0%9F%91%8B;AI+Developer+%7C+Machine+Learning;Computer+Vision+%7C+Generative+AI;Building+and+Learning+Every+Day+%F0%9F%9A%80" alt="Typing Animation">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%">
+
+</div>
+
 # Hi, I'm John Wesley 👋
 
 ### AI Developer | Machine Learning | Computer Vision
