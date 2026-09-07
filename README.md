@@ -35,7 +35,7 @@
 
 <div align="center">
 
-## `⚡ AI SYSTEM STATUS`
+## ⚡ AI SYSTEM STATUS
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
