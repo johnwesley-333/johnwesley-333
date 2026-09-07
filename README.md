@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=250&lines=Initializing+John+Wesley...;Profile+loaded+%E2%9C%93;AI+Developer;B.Tech+Artificial+Intelligence+%26+Data+Science;Machine+Learning;Computer+Vision;Generative+AI;AI+Agents;LangGraph;Building+AI+Projects...;Status%3A+Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80" alt="Terminal Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Hello%2C+I'm+John+Wesley+%F0%9F%91%8B;AI+Developer;Machine+Learning;Computer+Vision;Generative+AI;AI+Agents" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%" />
 
