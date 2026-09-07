@@ -1,37 +1,155 @@
 <div align="center">
 
-<!-- ===================== ANIMATED INTRO ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=JOHN%20WESLEY&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=60&descSize=18&animation=fadeIn&color=0:0D1117,50:161B22,100:2F81F7" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+John+Wesley+%F0%9F%91%8B;AI+Developer+%7C+Machine+Learning;Computer+Vision+%7C+Generative+AI;Building+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing Animation">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=850&height=70&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;AI+Developer+%7C+Machine+Learning;Computer+Vision+%7C+Generative+AI;Building+AI+Agents+with+LangGraph;Exploring+LLMs+%26+RAG;Turning+Ideas+into+Working+Projects+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient" width="100%">
 
-<br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=johnwesley-333&label=PROFILE+VIEWS&color=2F81F7&style=for-the-badge" />
+# Hi, I'm John Wesley 👋
 
-<br><br>
+### AI Developer | Machine Learning | Computer Vision
 
-<!-- ===================== AI STATUS ===================== -->
+I'm a B.Tech Artificial Intelligence & Data Science student interested in building practical technology and learning modern AI.
 
-<table>
-<tr>
-<td align="center">
+---
 
-```text
-╔══════════════════════════════════════════╗
-║          JOHN WESLEY • AI DEVELOPER      ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  🤖 Artificial Intelligence        ✓     ║
-║  🧠 Machine Learning               ✓     ║
-║  👁️ Computer Vision                ✓     ║
-║  ✨ Generative AI                  ✓     ║
-║  🔗 AI Agents                      ✓     ║
-║  🧩 LangGraph                      ✓     ║
-║  📚 RAG & LLM Engineering          ↗     ║
-║  🚀 Building & Learning             ✓     ║
-║                                          ║
-╚══════════════════════════════════════════╝
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Artificial Intelligence & Data Science student
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 👁️ Exploring Computer Vision
+- ✨ Learning Generative AI and LLMs
+- 🔗 Learning AI Agents and LangGraph
+- 💻 Improving my programming and problem-solving skills
+- 🌐 Interested in Open Source
+- 🚀 Building projects to gain real-world experience
+
+---
+
+## 🛠️ Skills
+
+### Programming
+
+- Python
+- Java
+- C
+- SQL
+
+### AI & Machine Learning
+
+- Machine Learning
+- Computer Vision
+- OpenCV
+- Scikit-Learn
+- DeepFace
+- Generative AI
+- AI Agents
+- LangGraph
+
+### Development
+
+- FastAPI
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 🚀 Currently Learning
+
+- LangGraph
+- FastAPI
+- AI Agents
+- RAG
+- LLM Engineering
+- System Design for AI Applications
+
+---
+
+## 💻 Projects
+
+### Tiny LangGraph AI
+
+A beginner AI assistant built using Python and LangGraph.
+
+**Technologies:** Python, LangGraph
+
+### AI Vision System
+
+A computer vision project for real-time object detection.
+
+**Technologies:** Python, OpenCV
+
+### Face Emotion Recognition
+
+A project for recognizing facial emotions using computer vision.
+
+**Technologies:** Python, DeepFace, OpenCV
+
+### AI Object System
+
+A computer vision project focused on object detection.
+
+**Technologies:** Python, OpenCV
+
+---
+
+## 🎓 Education
+
+**B.Tech — Artificial Intelligence & Data Science**
+
+Panimalar Engineering College
+
+2025 – 2029
+
+Chennai, India
+
+---
+
+## 📜 Certifications
+
+- Google — Introduction to Generative AI
+- LinkedIn Learning — Generative AI
+- TCS iON — AI Foundation
+- Anthropic — Claude Code 101
+- AWS Educate — Machine Learning Foundations
+- Infosys Springboard — AI / NLP / Data Science
+- IBM — Cybersecurity Fundamentals
+- HP LIFE — Cybersecurity Awareness
+- HackerRank — Problem Solving Intermediate
+- GUVI — C++ Beginners
+
+---
+
+## 🎯 Career Goals
+
+- AI Engineer
+- Machine Learning Engineer
+- Computer Vision Engineer
+- Generative AI Developer
+- AI Agent Engineer
+- Open Source Contributor
+- Research-Oriented Developer
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwesley-333&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley-333&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/johnwesley-333
+- LinkedIn: https://www.linkedin.com/in/john-wesley-b1a134398/
+
+---
+
+### Build • Learn • Share • Improve • Repeat 🚀
